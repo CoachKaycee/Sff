@@ -59,8 +59,7 @@ export const Hero = () => {
                 ]}
             />
 
-            <p className="text-sm md:text-md text-gray-500">10,0
-              00+ students across the globe</p>
+            <p className="text-sm md:text-md text-gray-500">10,000+ students across the globe</p>
           </div>
 
           <Image 
