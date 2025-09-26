@@ -118,7 +118,7 @@ export const Testimonial = () => {
                       coolvetica.className + " text-white text-6xl md:text-8xl"
                     }
                   >
-                    2500+
+                    10,000+
                   </h2>
                   <p className="text-xl md:text-2xl text-white mt-2">
                     students are evidence to our working methods
