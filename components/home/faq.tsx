@@ -34,7 +34,7 @@ export const Faq = () => {
 
             <Link
               className="text-md text-text-gray font-medium"
-              href="https://wa.me/9075555748"
+              href="https://wa.me/9043496211"
             >
               <Button
                 className="hidden md:inline-flex"
@@ -72,7 +72,7 @@ export const Faq = () => {
 
             <Link
               className="text-md text-text-gray font-medium"
-              href="https://wa.me/9075555748"
+              href="https://wa.me/9043496211"
             >
               <Button
                 className=" inline-flex md:hidden"
