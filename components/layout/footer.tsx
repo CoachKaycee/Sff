@@ -64,7 +64,7 @@ export const Footer = () => {
               className="text-white font-light"
               href="tel:+2349043496211"
             >
-             +2349043496211
+             +234 904 349 6211
             </Link>
           </div>
         </div>
