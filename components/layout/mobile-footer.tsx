@@ -48,7 +48,7 @@ export const MobileFooter = () => {
                 height={20}
               />
             </Link>
-            <Link target="_blank" href="https://wa.me/9075555748">
+            <Link target="_blank" href="https://wa.me/9043496211">
               <Image
                 className="cursor-pointer"
                 alt="whatsapp"
@@ -76,9 +76,9 @@ export const MobileFooter = () => {
               <div>
                 <Link
                   className="text-white/70 font-light hover:text-white"
-                  href="tel:+2349075555748"
+                  href="tel:+2349043496211"
                 >
-                  +234 907 5555 748
+                 +234 904 3496 211
                 </Link>
               </div>
             </div>
