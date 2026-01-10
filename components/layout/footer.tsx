@@ -42,7 +42,7 @@ export const Footer = () => {
                 height={20}
               />
             </Link>
-            <Link target="_blank" href='https://wa.me/9075555748'>
+            <Link target="_blank" href='https://wa.me/9043496211'>
             <Image
               className="cursor-pointer"
               alt="whatsapp"
@@ -62,9 +62,9 @@ export const Footer = () => {
             </Link>
             <Link
               className="text-white font-light"
-              href="tel:+2349075555748"
+              href="tel:+2349043496211"
             >
-              +234 907 5555 748
+             +2349043496211
             </Link>
           </div>
         </div>
