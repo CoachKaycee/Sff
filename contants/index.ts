@@ -287,7 +287,7 @@ export const footerMenu = [
       },
       {
         title: 'Privacy Policy',
-        href: '/#privacy'
+        href: '/privacy-policy'
       },
     ]
   },
