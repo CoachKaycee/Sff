@@ -15,8 +15,8 @@ export const PlanCta = () => {
         <Link
           href={`${
             currency === "NGN"
-              ? "https://wa.link/01zeik"
-              : "https://wa.link/01zeik"
+              ? "https://wa.link/m3020e"
+              : "https://wa.link/m3020e"
           }`}
           target="_blank"
         >
