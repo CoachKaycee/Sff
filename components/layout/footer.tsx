@@ -62,7 +62,7 @@ export const Footer = () => {
             </Link>
             <Link
               className="text-white font-light"
-              href="tel:+2349043496211"
+              href="tel:+2349110281904"
             >
              +234 904 349 6211
             </Link>
