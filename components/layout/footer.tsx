@@ -42,7 +42,7 @@ export const Footer = () => {
                 height={20}
               />
             </Link>
-            <Link target="_blank" href='https://wa.me/9043496211'>
+            <Link target="_blank" href='https://wa.me/9110281904'>
             <Image
               className="cursor-pointer"
               alt="whatsapp"
