@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.sogobanwo.sffappmobile",
+      "sha256_cert_fingerprints": [
+        "5A:31:70:E1:A8:04:14:59:0C:AC:49:4B:CC:AB:E5:F2:68:4C:FA:36:1F:C4:98:88:8D:1D:2F:AE:68:8C:7B:1F"
+      ]
+    }
+  }
+]
