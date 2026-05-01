@@ -4,8 +4,23 @@
     "details": [
       {
         "appID": "2S95K3XWH5.com.sogobanwo.sffappmobile",
-        "paths": ["/activate", "/reset-password"]
+        "components": [
+          {
+            "/": "/activate",
+            "comment": "Matches '/activate' for Onboarding Activation"
+          },
+          {
+            "/": "/reset-password",
+            "comment": "Matches '/reset-password' for Password Reset"
+          }
+        ]
       }
     ]
+  },
+  "activitycontinuation": {
+    "apps": ["2S95K3XWH5.com.sogobanwo.sffappmobile"]
+  },
+  "webcredentials": {
+    "apps": ["2S95K3XWH5.com.sogobanwo.sffappmobile"]
   }
 }
