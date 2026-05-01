@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "2S95K3XWH5.com.sogobanwo.sffappmobile",
-        "paths": ["/activate"]
+        "paths": ["/activate", "/reset-password"]
       }
     ]
   }
