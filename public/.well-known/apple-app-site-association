@@ -4,7 +4,20 @@
     "details": [
       {
         "appID": "2S95K3XWH5.com.sogobanwo.sffappmobile",
-        "paths": ["/activate", "/reset-password", "/task/*"]
+          "components": [
+          {
+            "/": "/activate",
+            "comment": "Matches '/activate' for Onboarding Activation"
+          },
+          {
+            "/": "/reset-password",
+            "comment": "Matches '/reset-password' for Password Reset"
+          },
+          {
+            "/": "/task/*",
+            "comment": "Matches '/task/*' for Task Scoring Screens"
+          }
+        ]
       }
     ]
   }
