@@ -14,8 +14,8 @@
             "comment": "Matches '/reset-password' for Password Reset"
           },
           {
-            "/": "/task/*",
-            "comment": "Matches '/task/*' for Task Scoring Screens"
+            "/": "/scoring/task/*",
+            "comment": "Matches '/scoring/task/*' for Task Scoring Screens"
           }
         ]
       }
